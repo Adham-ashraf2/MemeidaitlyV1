@@ -1,0 +1,108 @@
+{
+  "MEMES": [
+    {
+      "title": "Most Interesting Man",
+      "img": "img/1.jpeg"
+    },
+    {
+      "title": ":skull:",
+      "img": "img/2.jpeg"
+    },
+    {
+      "title": "One Does Not Simply",
+      "img": "img/3.jpeg"
+    },
+    {
+      "title": "Not Sure If",
+      "img": "img/4.jpeg"
+    },
+    {
+      "title": "Yo Dawg",
+      "img": "img/5.jpeg"
+    },
+    {
+      "title": "Too Damn High",
+      "img": "img/6.jpeg"
+    },
+    {
+      "title": "Brace Yourselves",
+      "img": "img/7.jpeg"
+    },
+    {
+      "title": "What If",
+      "img": "img/8.jpeg"
+    },
+    {
+      "title": "You Should Feel Bad",
+      "img": "img/10.jpeg"
+    },
+    {
+      "title": "Y U No",
+      "img": "img/11.jpeg"
+    },
+    {
+      "title": "Am I The Only One",
+      "img": "img/12.jpeg"
+    },
+    {
+      "title": "So Hot Right Now",
+      "img": "img/13.jpeg"
+    },
+    {
+      "title": "Is Strong With This One",
+      "img": "img/14.jpeg"
+    },
+    {
+      "title": "This Is Sparta",
+      "img": "img/15.jpeg"
+    },
+    {
+      "title": "Goes To Eleven",
+      "img": "img/16.jpeg"
+    },
+    {
+      "title": "Fantastic",
+      "img": "img/17.jpeg"
+    },
+    {
+      "title": "Batman Slap",
+      "img": "img/18.jpeg"
+    },
+    {
+      "title": "Nobody Expects",
+      "img": "img/19.jpeg"
+    },
+    {
+      "title": "Shampoo Is Better",
+      "img": "img/20.jpeg"
+    },
+    {
+      "title": "I Would Be So Happy",
+      "img": "img/21.jpeg"
+    },
+    {
+      "title": "Over 9000",
+      "img": "img/22.jpeg"
+    },
+    {
+      "title": "Laughing Men",
+      "img": "img/23.jpeg"
+    },
+    {
+      "title": "These Are Not The Droids",
+      "img": "img/24.jpeg"
+    },
+    {
+      "title": "Kermit Panic",
+      "img": "img/25.jpeg"
+    },
+    {
+      "title": "Taken",
+      "img": "img/26.jpeg"
+    },
+    {
+      "title": "I Am The Law",
+      "img": "img/27.jpeg"
+    }
+  ]
+}
